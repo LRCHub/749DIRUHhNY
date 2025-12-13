@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "紅蓮の弓矢",
+  "base_artist": "Linked Horizon",
+  "createdAt": "2025-12-13T07:49:42.473529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/01_紅蓮の弓矢_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/02_紅蓮の弓矢_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 / Crimson Bow and Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/03_紅蓮の弓矢___Crimson_Bow_and_Arrow_Epica.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢[紅白スペシャルSize]",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/04_紅蓮の弓矢[紅白スペシャルSize]_Linked_Horizon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 - Guren no Yumiya",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/05_紅蓮の弓矢_-_Guren_no_Yumiya_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢(TVサイズver.)",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/06_紅蓮の弓矢(TVサイズver.)_Linked_Horizon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/07_紅蓮の弓矢_Linked_Horizon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 (第1〜13.5話OP)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/08_紅蓮の弓矢_(第1〜13.5話OP)_Muray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 - Guren no Yumiya",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/09_紅蓮の弓矢_-_Guren_no_Yumiya_Linked_Horizon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 (TVサイズver.) - Guren no Yumiya",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/10_紅蓮の弓矢_(TVサイズver.)_-_Guren_no_Yumiya_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Hot Anime Songs Band",
+      "has_synced": true,
+      "path": "select/11_紅蓮の弓矢_Hot_Anime_Songs_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 (TVサイズver.)",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/12_紅蓮の弓矢_(TVサイズver.)_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/13_紅蓮の弓矢_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/14_紅蓮の弓矢_Linked_Horizon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/15_紅蓮の弓矢_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢(TVサイズver.)",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/16_紅蓮の弓矢(TVサイズver.)_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 (TVサイズver.)",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/17_紅蓮の弓矢_(TVサイズver.)_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 / Crimson Bow And Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/18_紅蓮の弓矢___Crimson_Bow_And_Arrow_Epica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "has_synced": false,
+      "path": "select/pl_01_紅蓮の弓矢_Linked_Horizon.txt"
+    }
+  ]
+}
